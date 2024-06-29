@@ -82,7 +82,8 @@ Thank you for your support and happy coding! 💻☕
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ## Featured Repos
-- [**STRling**](https://github.com/yourusername/strling): A high-level interface that makes even complex regular expressions a breeze.
+- [**Simple Syntax Docs**](https://github.com/TheCyberLocal/simple-syntax-docs): Concise docs for essential syntax that either lacks a single source documentation or the docs are simply overwhelming.
+- [**STRling**](https://github.com/TheCyberLocal/STRling): A next-generation object-oriented interface for regular expressions.
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
