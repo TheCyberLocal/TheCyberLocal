@@ -78,6 +78,8 @@ Thank you for your support and happy coding! ☕
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
+[![PyPI](https://img.shields.io/badge/PyPI-3776AB?logo=pypi&logoColor=white)](https://pypi.org/user/TheCyberLocal/)
+[![npm](https://img.shields.io/badge/npm-%23FFFFFF.svg?logo=npm&logoColor=D00000)](https://www.npmjs.com/~thecyberlocal)
 
 ## 📊 GitHub Stats
 ![](https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1)<br>
