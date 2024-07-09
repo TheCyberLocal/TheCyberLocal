@@ -74,6 +74,7 @@ Thank you for your support and happy coding! ☕
 
 ## ✨ Featured Repos
 - [**STRling-Py**](https://github.com/TheCyberLocal/STRling-Py): A next-generation object-oriented interface for regular expressions.
+- [**Airbnb-Clone**](https://github.com/TheCyberLocal/Airbnb-Clone): This is my API portfolio project clone of Airbnb.
 - [**Simple Syntax Docs**](https://github.com/TheCyberLocal/simple-syntax-docs): Concise docs for essential syntax that either lacks a single source documentation or the docs are simply overwhelming.
 
 ## 🌐 Socials
