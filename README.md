@@ -17,7 +17,8 @@ Thank you for your support and happy coding! ☕
 
 ## ✨ Featured Repos
 - [**MyTube**](https://github.com/TheCyberLocal/MyTube): A full-stack web application for organizing and managing your favorite YouTube videos.
-- [**STRling-Py**](https://github.com/TheCyberLocal/STRling-Py): A next-generation object-oriented interface for regular expressions.
+- [**STRling-Py**](https://github.com/TheCyberLocal/STRling-Py): A next-generation object-oriented interface for regular expressions in Python.
+- [**STRling-JS**](https://github.com/TheCyberLocal/STRling-JS): A next-generation object-oriented interface for regular expressions in JavaScript.
 - [**Simple Syntax Docs**](https://github.com/TheCyberLocal/simple-syntax-docs): Simple and concise documentation for syntax whose source can be overwhelming or scarce.
 
 ## 💻 Tech Stack
