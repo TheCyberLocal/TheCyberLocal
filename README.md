@@ -15,6 +15,12 @@ If you find my content helpful or interesting, consider buying me a coffee. Ever
 
 Thank you for your support and happy coding! ☕
 
+## ✨ Featured Repos
+- [**MyTube**](https://github.com/TheCyberLocal/MyTube): A full-stack web application for organizing and managing your favorite YouTube videos.
+- [**Airbnb-Clone**](https://github.com/TheCyberLocal/Airbnb-Clone): A full-stack web application Airbnb clone for Wonders of the World.
+- [**STRling-Py**](https://github.com/TheCyberLocal/STRling-Py): A next-generation object-oriented interface for regular expressions.
+- [**Simple Syntax Docs**](https://github.com/TheCyberLocal/simple-syntax-docs): Simple and concise documentation for syntax whose source can be overwhelming or scarce.
+
 ## 💻 Tech Stack
 ### 📚 Languages
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -72,17 +78,6 @@ Thank you for your support and happy coding! ☕
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)](https://sequelize.org/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-## ✨ Featured Repos
-- [**MyTube**](https://github.com/TheCyberLocal/MyTube): A full-stack web application for organizing and managing your favorite YouTube videos.
-- [**Airbnb-Clone**](https://github.com/TheCyberLocal/Airbnb-Clone): A full-stack web application Airbnb clone for Wonders of the World.
-- [**STRling-Py**](https://github.com/TheCyberLocal/STRling-Py): A next-generation object-oriented interface for regular expressions.
-- [**Simple Syntax Docs**](https://github.com/TheCyberLocal/simple-syntax-docs): Simple and concise documentation for syntax whose source can be overwhelming or scarce.
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
-[![PyPI](https://img.shields.io/badge/PyPI-3776AB?logo=pypi&logoColor=white)](https://pypi.org/user/TheCyberLocal/)
-[![npm](https://img.shields.io/badge/npm-%23FFFFFF.svg?logo=npm&logoColor=D00000)](https://www.npmjs.com/~thecyberlocal)
-
 ## 📊 GitHub Stats
 ![](https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1)<br>
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
@@ -90,6 +85,11 @@ Thank you for your support and happy coding! ☕
 
 ## 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
+[![PyPI](https://img.shields.io/badge/PyPI-3776AB?logo=pypi&logoColor=white)](https://pypi.org/user/TheCyberLocal/)
+[![npm](https://img.shields.io/badge/npm-%23FFFFFF.svg?logo=npm&logoColor=D00000)](https://www.npmjs.com/~thecyberlocal)
 
 ## 💖 Support
 If you find my content helpful or interesting, consider buying me a coffee. Every cup is greatly appreciated and fuels my work!
