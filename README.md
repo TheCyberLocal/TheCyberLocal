@@ -17,7 +17,6 @@ Thank you for your support and happy coding! ☕
 
 ## ✨ Featured Repos
 - [**MyTube**](https://github.com/TheCyberLocal/MyTube): A full-stack web application for organizing and managing your favorite YouTube videos.
-- [**Airbnb-Clone**](https://github.com/TheCyberLocal/Airbnb-Clone): A full-stack web application Airbnb clone for Wonders of the World.
 - [**STRling-Py**](https://github.com/TheCyberLocal/STRling-Py): A next-generation object-oriented interface for regular expressions.
 - [**Simple Syntax Docs**](https://github.com/TheCyberLocal/simple-syntax-docs): Simple and concise documentation for syntax whose source can be overwhelming or scarce.
 
