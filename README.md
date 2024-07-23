@@ -91,7 +91,7 @@ Thank you for your support and happy coding! ☕
 <a href="#" onclick="event.preventDefault();"><img src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true" alt="trophy"></a>
 
 ## 💭 Random Dev Quote
-<img onclick="event.preventDefault();" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+<a href="#" onclick="event.preventDefault();"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"></a>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
