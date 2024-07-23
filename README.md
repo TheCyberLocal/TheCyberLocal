@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-<a href="#" style="cursor: default !important;" onclick="event.preventDefault();"><img src="./profile.png" alt="Profile Banner"><a/>
+<a href="#" style="cursor: default !important;" onclick="event.preventDefault();"><img style="cursor: default !important;" src="./profile.png" alt="Profile Banner"><a/>
 
 ## 💫 About Me
 Hello there! 👋
