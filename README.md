@@ -88,7 +88,7 @@ Thank you for your support and happy coding! ☕
 <a href="#"><img height="175" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/></a>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true)]()
+<a href="#" onclick="event.preventDefault();"><img src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true" alt="trophy"></a>
 
 ## 💭 Random Dev Quote
 [![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)]()
