@@ -80,10 +80,10 @@ Thank you for your support and happy coding! ☕
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ## 📈 GitHub Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark)]()
+<a href="#" onclick="event.preventDefault();"><img src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark" alt="Ashutosh's GitHub activity graph"><a/>
 
 ## 📊 GitHub Stats
-[![Visit Count](https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1)]()<br>
+<a href="#" onclick="event.preventDefault();"><img src="https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1" alt="Visit Count"><a/><br>
 <a href="#"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/></a>
 <a href="#"><img height="175" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/></a>
 
@@ -91,7 +91,7 @@ Thank you for your support and happy coding! ☕
 <a href="#" onclick="event.preventDefault();"><img src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true" alt="trophy"></a>
 
 ## 💭 Random Dev Quote
-[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)]()
+<a href="#" onclick="event.preventDefault();"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"><a/>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
