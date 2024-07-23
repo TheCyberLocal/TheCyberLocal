@@ -79,6 +79,9 @@ Thank you for your support and happy coding! ☕
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)](https://sequelize.org/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
+## 📈 GitHub Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📊 GitHub Stats
 ![](https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1)<br>
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
