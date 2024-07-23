@@ -17,10 +17,10 @@ Thank you for your support and happy coding! ☕
 
 ## ✨ Featured Repos
 
-- [![](https://img.shields.io/badge/MyTube-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/MyTube) A full-stack web application for organizing and managing your favorite YouTube videos.
-- [![](https://img.shields.io/badge/STRling_Py-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/STRling-Py) A next-generation object-oriented interface for regular expressions in Python.
-- [![](https://img.shields.io/badge/STRling_JS-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/STRling-JS) A next-generation object-oriented interface for regular expressions in JavaScript.
-- [![](https://img.shields.io/badge/simple_syntax_docs-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/simple-syntax-docs) Simple and concise documentation for syntax whose source can be overwhelming or scarce.
+- [![MyTube](https://img.shields.io/badge/MyTube-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/MyTube) A full-stack web application for organizing and managing your favorite YouTube videos.
+- [![STRling-Py](https://img.shields.io/badge/STRling_Py-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/STRling-Py) A next-generation object-oriented interface for regular expressions in Python.
+- [![STRling-JS](https://img.shields.io/badge/STRling_JS-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/STRling-JS) A next-generation object-oriented interface for regular expressions in JavaScript.
+- [![simple-syntax-docs](https://img.shields.io/badge/simple_syntax_docs-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/simple-syntax-docs) Simple and concise documentation for syntax whose source can be overwhelming or scarce.
 
 ## 💻 Tech Stack
 ### 📚 Languages
@@ -83,12 +83,15 @@ Thank you for your support and happy coding! ☕
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Stats
-![](https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1)<br>
+![Visit Count](https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1)<br>
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 
+## 🏆 GitHub Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=thecyberlocal)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
