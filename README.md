@@ -92,7 +92,6 @@ Thank you for your support and happy coding! ☕
 
 ## 💭 Random Dev Quote
 [![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)]()
-[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)]()
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
