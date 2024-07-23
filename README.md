@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-<a href="#welcome-to-my-github-profile"><img src="./profile.png" alt="Profile Banner"></a>
+<a href="#welcome-to-my-github-profile"><img width="100%" src="./profile.png" alt="Profile Banner"></a>
 
 ## 💫 About Me
 Hello there! 👋
@@ -88,7 +88,7 @@ Thank you for your support and happy coding! ☕
 <a href="#-github-stats"><img height="175" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/></a>
 
 ## 🏆 GitHub Trophies
-<a href="#-github-trophies"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true&title=Commits,Repositories,Experience,Followers,Reviews" alt="trophy"></a>
+<a href="#-github-trophies"><img src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true&title=Commits,Repositories,Experience,Followers,Reviews" alt="Trophies"></a>
 
 
 ## 💭 Random Dev Quote
