@@ -16,10 +16,11 @@ If you find my content helpful or interesting, consider buying me a coffee. Ever
 Thank you for your support and happy coding! ☕
 
 ## ✨ Featured Repos
-- [**MyTube**](https://github.com/TheCyberLocal/MyTube): A full-stack web application for organizing and managing your favorite YouTube videos.
-- [**STRling-Py**](https://github.com/TheCyberLocal/STRling-Py): A next-generation object-oriented interface for regular expressions in Python.
-- [**STRling-JS**](https://github.com/TheCyberLocal/STRling-JS): A next-generation object-oriented interface for regular expressions in JavaScript.
-- [**Simple Syntax Docs**](https://github.com/TheCyberLocal/simple-syntax-docs): Simple and concise documentation for syntax whose source can be overwhelming or scarce.
+
+- [![](https://img.shields.io/badge/MyTube-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/MyTube) A full-stack web application for organizing and managing your favorite YouTube videos.
+- [![](https://img.shields.io/badge/STRling_Py-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/STRling-Py) A next-generation object-oriented interface for regular expressions in Python.
+- [![](https://img.shields.io/badge/STRling_JS-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/STRling-JS) A next-generation object-oriented interface for regular expressions in JavaScript.
+- [![](https://img.shields.io/badge/simple_syntax_docs-%23121011.svg?logo=github&logoColor=white)](https://github.com/TheCyberLocal/simple-syntax-docs) Simple and concise documentation for syntax whose source can be overwhelming or scarce.
 
 ## 💻 Tech Stack
 ### 📚 Languages
