@@ -80,18 +80,18 @@ Thank you for your support and happy coding! ☕
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ## 📈 GitHub Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark)](#)
 
 ## 📊 GitHub Stats
-![Visit Count](https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1)<br>
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
+[![Visit Count](https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1)](#)<br>
+<a href="#"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/></a>
+<a href="#"><img height="175" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/></a>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true)](#)
 
 ## 💭 Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](#)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
