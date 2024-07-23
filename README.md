@@ -83,7 +83,7 @@ Thank you for your support and happy coding! ☕
 <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark" alt="Ashutosh's GitHub activity graph"></a>
 
 ## 📊 GitHub Stats
-<a href="#📊-github-stats"><img src="https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1" alt="Visit Count"></a><br>
+<a href="#-github-stats"><img src="https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1" alt="Visit Count"></a><br>
 <a href="#"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/></a>
 <a href="#"><img height="175" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/></a>
 
