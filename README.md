@@ -35,13 +35,13 @@ Thank you for your support and happy coding! ☕
 
 ### 🔍 Frameworks, Libraries, and ML/DL Tools
 #### JavaScript
-[![npm](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
-[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)](https://opencv.org/)
-[![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?logo=nodemon&logoColor=%BBDEAD)](https://nodemon.io/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)](https://redux.js.org/)
+[![npm](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+[![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?logo=nodemon&logoColor=%BBDEAD)](https://nodemon.io/)
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)](https://opencv.org/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)](https://mochajs.org/)
 [![Chai](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=white)](https://www.chaijs.com/)
