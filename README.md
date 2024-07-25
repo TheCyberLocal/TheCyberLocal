@@ -68,7 +68,7 @@ Thank you for your support and happy coding! ☕
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
 
-### 🗂️ Databases
+### 🗂️ Databases and ORMs
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)](https://sequelize.org/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%2361DAFB?logo=sqlalchemy&logoColor=%23FF0000&color=%23202020)](https://www.sqlalchemy.org/)
