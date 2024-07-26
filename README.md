@@ -17,7 +17,7 @@ Thank you for your support and happy coding! ☕
 
 ## ✨ Featured Repos
 
-- [ShareSage](https://github.com/rileybona/sharesage) A full-stack collaborative project to build our communication and team skills.
+- [ShareSage](https://github.com/rileybona/sharesage) This is a Splitwise Clone developed collaboratively to build our communication and team skills.
 - [MyTube](https://github.com/TheCyberLocal/MyTube) A full-stack web application for organizing and managing your favorite YouTube videos.
 - [Airbnb-Clone](https://github.com/TheCyberLocal/Airbnb-Clone) This is an Airbnb Clone for Wonders of the World.
 - [STRling](https://github.com/TheCyberLocal/STRling) A next-generation object-oriented interface for regular expressions.
