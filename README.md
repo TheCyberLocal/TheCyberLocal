@@ -3,6 +3,7 @@
 <a href="#welcome-to-my-github-profile"><img width="100%" src="./profile.png" alt="Profile Banner"></a>
 
 ## 💫 About Me
+
 Hello there! 👋
 
 I'm a passionate programmer who loves to solve problems, and coding is no exception. More than user product development, I have a keen interest in developing tools for other developers. I find a greater sense of accomplishment when I create a tool because I know it will continue to help other projects long after my work is done.
@@ -24,17 +25,20 @@ Thank you for your support and happy coding! ☕
 - [simple-syntax-docs](https://github.com/TheCyberLocal/simple-syntax-docs) Simple and concise documentation for syntax whose source can be overwhelming or scarce.
 
 ## 💻 Tech Stack
+
 ### 📚 Languages
+
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Bash](https://img.shields.io/badge/bash-%23121011.svg?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 
 ### 🔍 Frameworks, Libraries, and ML/DL Tools
+
 #### JavaScript
+
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)](https://redux.js.org/)
@@ -46,6 +50,7 @@ Thank you for your support and happy coding! ☕
 [![npm](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 #### Python
+
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Jinja](https://img.shields.io/badge/jinja-white.svg?logo=jinja&logoColor=black)](https://jinja.palletsprojects.com/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org/)
@@ -58,6 +63,7 @@ Thank you for your support and happy coding! ☕
 [![pip3](https://img.shields.io/badge/pip3-%2314354C.svg?logo=pypi&logoColor=white)](https://pypi.org/project/pip/)
 
 ### 🪛 Tools and Platforms
+
 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white)](https://render.com/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -69,31 +75,38 @@ Thank you for your support and happy coding! ☕
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
 
 ### 🗂️ Databases and ORMs
+
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)](https://sequelize.org/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%2361DAFB?logo=sqlalchemy&logoColor=%23FF0000&color=%23202020)](https://www.sqlalchemy.org/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ## 📈 GitHub Activity Graph
+
 [![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark)](#-github-activity-graph)
 
 ## 📊 GitHub Stats
+
 [![Visit Count](https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1)](#-github-stats)<br>
 <a href="#-github-stats"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/></a>
 <a href="#-github-stats"><img height="175" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/></a>
 
 ## 🏆 GitHub Trophies
+
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true)](#-github-trophies)
 
 ## 💭 Random Dev Quote
+
 [![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](#-random-dev-quote)
 
 ## 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
 [![PyPI](https://img.shields.io/badge/PyPI-3776AB?logo=pypi&logoColor=white)](https://pypi.org/user/TheCyberLocal/)
 [![npm](https://img.shields.io/badge/npm-%23FFFFFF.svg?logo=npm&logoColor=D00000)](https://www.npmjs.com/~thecyberlocal)
 
 ## 💖 Support
+
 If you find my content helpful or interesting, consider buying me a coffee. Every cup is greatly appreciated and fuels my work!
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/thecyberlocal)
