@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-<a href="#welcome-to-my-github-profile"><img width="100%" src="./profile.png" alt="Profile Banner"></a>
+<a href="#welcome-to-my-github-profile"><img width="100%" src="./assets/banner.png" alt="Profile Banner"></a>
 
 ## 💫 About Me
 
@@ -112,5 +112,7 @@ If you find my content helpful or interesting, consider buying me a coffee. Ever
 [![Buy Me a Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/thecyberlocal)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/TheCyberLocal)
 [![Venmo](https://img.shields.io/badge/Venmo-008CFF?logo=venmo&logoColor=white)](https://www.venmo.com/TheCyberLocal)
+
+<a href="#welcome-to-my-github-profile"><img width="100%" src="./assets/github-snake.svg" alt="GitHub Snake SVG"></a>
 
 Thank you for visiting my profile!
