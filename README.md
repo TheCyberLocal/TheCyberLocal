@@ -87,25 +87,9 @@ Thank you for your support and happy coding! ☕
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="width: 49%;">
-    <div width="100%">
-        <a href="#-github-stats">
-        <img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/>
-        </a>
-    </div>
-    <div width="100%">
-        <a href="#-github-stats">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
-        </a>
-    </div>
-  </div>
-  <div style="width: 50%;">
-    <a href="#-github-stats">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
-    </a>
-  </div>
-</div>
+[![Visit Count](https://visitcount.itsvg.in/api?id=TheCyberLocal&icon=0&color=1)](#-github-stats)<br>
+<a href="#-github-stats"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/></a>
+<a href="#-github-stats"><img height="175" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/></a>
 
 ## 🏆 GitHub Trophies
 
