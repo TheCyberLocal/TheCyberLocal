@@ -115,4 +115,4 @@ If you find my content helpful or interesting, consider buying me a coffee. Ever
 
 <a href="#welcome-to-my-github-profile"><img width="100%" src="./assets/github-snake.svg" alt="GitHub Snake SVG"></a>
 
-Thank you for visiting my profile!
+### Thank you for visiting my profile!
