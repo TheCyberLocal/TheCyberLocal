@@ -10,7 +10,7 @@ I'm a passionate programmer who loves to solve problems, and coding is no except
 
 When I'm not deep in code, you might find me researching the latest text-to-speech extensions for Google Chrome or customizing my Gmail background - I love finding ways to make technology work for me.
 
-Through my BuyMeACoffee account, I hope to share my knowledge, discoveries, and experiences in programming and web development. Your support allows me to dedicate more time to this passion and to continue learning and growing in this field.
+Through [BuyMeACoffee](https://buymeacoffee.com/thecyberlocal), I hope to share my knowledge, discoveries, and experiences in programming and web development. Your support allows me to dedicate more time to this passion and to continue learning and growing in this field.
 
 If you find my content helpful or interesting, consider buying me a coffee. Every cup is greatly appreciated and fuels my work!
 
