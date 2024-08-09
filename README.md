@@ -27,7 +27,7 @@ Thank you for your support and happy coding! ☕
 ## 😎 More About Me
 
 - ### 🤵🏻 [Portfolio Site](https://thecyberlocal.github.io)
-- ### ⭐ [Starred Repos](https://github.com/stars/TheCyberLocal/lists/my-showroom)
+- ### 🎩 [My Showroom](https://github.com/stars/TheCyberLocal/lists/my-showroom)
 
 ## 💻 Tech Stack
 
