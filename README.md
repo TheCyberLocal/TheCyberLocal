@@ -94,8 +94,8 @@ Thank you for your support and happy coding! ☕
 
 <a href="#-github-stats"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/></a>
 <a href="#-github-stats"><img width="56%" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/></a>
-<h1 align="center">Profile Views</h1>
-<a href="#-github-stats"><img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/></a>
+<!-- <h1 align="center">Profile Views</h1>
+<a href="#-github-stats"><img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/></a>-->
 
 ## 🏆 GitHub Trophies
 
