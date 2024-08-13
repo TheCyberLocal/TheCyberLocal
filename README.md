@@ -100,7 +100,11 @@ Thank you for your support and happy coding! ☕
 
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true)](#-github-trophies)
+<picture>
+    <source width="100%" media="(min-width: 800px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
+    <source width="100%" media="(max-width: 801px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true&column=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true" alt="GitHub Trophies" style="width: 100%;">
+</picture>
 
 ## 💭 Random Dev Quote
 
