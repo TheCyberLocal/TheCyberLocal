@@ -141,4 +141,4 @@ If you find my content helpful or interesting, consider buying me a coffee. Ever
     <img width="100%" alt="GitHub Snake SVG" src="./assets/github-snake.svg">
 </picture>
 
-### Thank you for visiting my profile!
+### Thank you for visiting my profile... 🎉 and remember, don't swim with sharks! 🦈🙅‍♂️
