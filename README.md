@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-<a href="#welcome-to-my-github-profile"><img width="100%" src="./assets/banner.png" alt="Profile Banner"></a>
+<picture><img width="100%" src="./assets/banner.png" alt="Profile Banner"></picture>
 
 ## 💫 About Me
 
