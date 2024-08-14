@@ -1,6 +1,8 @@
 # Welcome Fellow Cyber Locals! 👋
 
-<img width="100%" alt="Profile Banner" src="./assets/banner.png">
+<a href="#welcome-fellow-cyber-locals">
+    <img width="100%" alt="Profile Banner" src="./assets/banner.png">
+</a>
 
 ## 💫 About Me
 
@@ -86,15 +88,23 @@ Thank you for your support and happy coding! ☕
 
 ## 📈 GitHub Activity Graph
 
-<img width="100%" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark&area=true"/>
+<a href="#-github-activity-graph">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark&area=true"/>
+</a>
 
 ## 📊 GitHub Stats
 
-<img width="42%" alt="Language Distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
-<img width="55%" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
+<a href="#-github-stats">
+    <img width="42%" alt="Language Distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
+</a>
+<a href="#-github-stats">
+    <img width="56%" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
+</a>
 
 <h1 align="center">Profile Views</h1>
-<img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/>
+<a href="#-github-stats">
+    <img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/>
+</a>
 
 ## 🏆 GitHub Trophies
 
