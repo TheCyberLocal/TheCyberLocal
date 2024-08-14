@@ -88,7 +88,9 @@ Thank you for your support and happy coding! ☕
 
 ## 📈 GitHub Activity Graph
 
-[![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark)](#-github-activity-graph)
+<picture>
+    <img width="100%" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark"/>
+</picture>
 
 ## 📊 GitHub Stats
 
