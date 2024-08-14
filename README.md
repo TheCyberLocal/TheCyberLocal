@@ -1,8 +1,8 @@
 # 👋 Welcome Fellow Cyber Locals!
 
-<picture>
+<a href="#-welcome-fellow-cyber-locals">
     <img width="100%" alt="Profile Banner" src="./assets/banner.png">
-</picture>
+</a>
 
 ## 💫 About Me
 
@@ -88,41 +88,35 @@ Thank you for your support and happy coding! ☕
 
 ## 📈 GitHub Activity Graph
 
-<picture>
+<a href="#-github-activity-graph">
     <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark&area=true"/>
-</picture>
+</a>
 
 ## 📊 GitHub Stats
 
-<picture>
-    <source width="100%" media="(max-width: 700px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution">
-    <source width="42%" media="(min-width: 701px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution">
-    <img width="42%" alt="Language Distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution">
-</picture>
-<picture>
-    <source width="100%" media="(max-width: 700px)" srcset="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats">
-    <source width="56%" media="(min-width: 701px)" srcset="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats">
-    <img width="56%" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats">
-</picture>
+<a href="#-github-stats">
+    <img width="42%" alt="Language Distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
+</a>
+<a href="#-github-stats">
+    <img width="56%" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
+</a>
 
 <h1 align="center">Profile Views</h1>
-<picture>
+<a href="#-github-stats">
     <img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/>
-</picture>
+</a>
 
 ## 🏆 GitHub Trophies
 
-<picture>
-    <source media="(max-width: 800px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
-    <source media="(min-width: 801px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true&columns=4">
+<a href="#-github-trophies">
     <img width="100%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
-</picture>
+</a>
 
 ## 💭 Random Dev Quote
 
-<picture>
+<a href="#-random-dev-quote">
     <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</picture>
+</a>
 
 ## 🌐 Socials
 
@@ -138,8 +132,8 @@ If you find my content helpful or interesting, consider buying me a coffee. Ever
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/TheCyberLocal)
 [![Venmo](https://img.shields.io/badge/Venmo-008CFF?logo=venmo&logoColor=white)](https://www.venmo.com/TheCyberLocal)
 
-<picture>
+<a href="#-support">
     <img width="100%" alt="GitHub Snake SVG" src="./assets/github-snake.svg">
-</picture>
+</a>
 
 ### Thank you for visiting my profile... 🎉 and remember, don't swim with sharks! 🦈🙅‍♂️
