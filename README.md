@@ -1,6 +1,8 @@
 # Welcome Fellow Cyber Locals! 👋
 
-<picture><img width="100%" src="./assets/banner.png" alt="Profile Banner"></picture>
+<picture>
+    <img width="100%" alt="Profile Banner" src="./assets/banner.png">
+</picture>
 
 ## 💫 About Me
 
@@ -16,16 +18,16 @@ Thank you for your support and happy coding! ☕
 
 ## ✨ Featured Repos
 
-- [MyTube](https://github.com/TheCyberLocal/MyTube) A full-stack web application for organizing and managing your favorite YouTube videos.
-- [Airbnb-Clone](https://github.com/TheCyberLocal/Airbnb-Clone) This is an Airbnb Clone for Wonders of the World.
-- [ShareSage](https://github.com/rileybona/sharesage) This is a Splitwise Clone developed collaboratively to build our communication and team skills.
-- [STRling](https://github.com/TheCyberLocal/STRling) A next-generation object-oriented interface for regular expressions.
-- [AskCodeium](https://github.com/TheCyberLocal/AskCodeium) A simple API for Codeium live general chat.
+-   [MyTube](https://github.com/TheCyberLocal/MyTube) A full-stack web application for organizing and managing your favorite YouTube videos.
+-   [Airbnb-Clone](https://github.com/TheCyberLocal/Airbnb-Clone) This is an Airbnb Clone for Wonders of the World.
+-   [ShareSage](https://github.com/rileybona/sharesage) This is a Splitwise Clone developed collaboratively to build our communication and team skills.
+-   [STRling](https://github.com/TheCyberLocal/STRling) A next-generation object-oriented interface for regular expressions.
+-   [AskCodeium](https://github.com/TheCyberLocal/AskCodeium) A simple API for Codeium live general chat.
 
 ## 😎 More About Me
 
-- ### 🤵🏻 [Portfolio Site](https://thecyberlocal.github.io)
-- ### 🏆 [My Showroom](https://github.com/stars/TheCyberLocal/lists/my-showroom)
+-   ### 🤵🏻 [Portfolio Site](https://thecyberlocal.github.io)
+-   ### 🏆 [My Showroom](https://github.com/stars/TheCyberLocal/lists/my-showroom)
 
 ## 💻 Tech Stack
 
@@ -91,26 +93,29 @@ Thank you for your support and happy coding! ☕
 ## 📊 GitHub Stats
 
 <picture>
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
+    <img width="42%" alt="Language Distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
 </picture>
 <picture>
-    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
+    <img width="55%" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
 </picture>
 
+<!-- Service is currently inoperable -->
 <!-- <h1 align="center">Profile Views</h1>
 <a href="#-github-stats"><img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/></a>-->
 
 ## 🏆 GitHub Trophies
 
 <picture>
-    <source width="100%" media="(min-width: 800px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
-    <source width="100%" media="(max-width: 801px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true&column=4">
-    <img src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true" alt="GitHub Trophies" style="width: 100%;">
+    <source width="100%" alt="GitHub Trophies" media="(min-width: 800px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
+    <source width="100%" alt="GitHub Trophies" media="(max-width: 801px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true&column=4">
+    <img width="100%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
 </picture>
 
 ## 💭 Random Dev Quote
 
-<picture><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"></picture>
+<picture>
+    <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</picture>
 
 ## 🌐 Socials
 
@@ -126,6 +131,8 @@ If you find my content helpful or interesting, consider buying me a coffee. Ever
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/TheCyberLocal)
 [![Venmo](https://img.shields.io/badge/Venmo-008CFF?logo=venmo&logoColor=white)](https://www.venmo.com/TheCyberLocal)
 
-<picture><img width="100%" src="./assets/github-snake.svg" alt="GitHub Snake SVG"></picture>
+<picture>
+    <img width="100%" alt="GitHub Snake SVG" src="./assets/github-snake.svg">
+</picture>
 
 ### Thank you for visiting my profile!
