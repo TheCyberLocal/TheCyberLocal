@@ -108,7 +108,7 @@ Thank you for your support and happy coding! ☕
 
 ## 💭 Random Dev Quote
 
-[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](#-random-dev-quote)
+<picture><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"></picture>
 
 ## 🌐 Socials
 
