@@ -1,4 +1,4 @@
-# Welcome Fellow Cyber Locals! 👋
+# 👋 Welcome Fellow Cyber Locals!
 
 <a href="#welcome-fellow-cyber-locals!">
     <img width="100%" alt="Profile Banner" src="./assets/banner.png">
