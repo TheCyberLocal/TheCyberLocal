@@ -105,9 +105,10 @@ Thank you for your support and happy coding! ☕
     <img width="55%" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
 </picture>
 
-<!-- Service is currently inoperable -->
-<!-- <h1 align="center">Profile Views</h1>
-<a href="#-github-stats"><img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/></a>-->
+<h1 align="center">Profile Views</h1>
+<picture>
+    <img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/>
+</picture>
 
 ## 🏆 GitHub Trophies
 
