@@ -1,10 +1,8 @@
-# Welcome to My GitHub Profile
+# Welcome My Fellow Cyber Locals! 👋
 
 <picture><img width="100%" src="./assets/banner.png" alt="Profile Banner"></picture>
 
 ## 💫 About Me
-
-Hello there! 👋
 
 I'm a passionate programmer who loves to solve problems, and coding is no exception. More than user product development, I have a keen interest in developing tools for other developers. I find a greater sense of accomplishment when I create a tool because I know it will continue to help other projects long after my work is done.
 
