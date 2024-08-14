@@ -124,6 +124,6 @@ If you find my content helpful or interesting, consider buying me a coffee. Ever
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/TheCyberLocal)
 [![Venmo](https://img.shields.io/badge/Venmo-008CFF?logo=venmo&logoColor=white)](https://www.venmo.com/TheCyberLocal)
 
-<a href="#welcome-to-my-github-profile"><img width="100%" src="./assets/github-snake.svg" alt="GitHub Snake SVG"></a>
+<picture><img width="100%" src="./assets/github-snake.svg" alt="GitHub Snake SVG"></picture>
 
 ### Thank you for visiting my profile!
