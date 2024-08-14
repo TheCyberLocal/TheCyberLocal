@@ -89,16 +89,19 @@ Thank you for your support and happy coding! ☕
 ## 📈 GitHub Activity Graph
 
 <picture>
-    <source width="100%" alt="GitHub Activity Graph" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark">
     <img width="100%" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark"/>
 </picture>
 
 ## 📊 GitHub Stats
 
 <picture>
+    <source width="42%" alt="Language Distribution" media="(max-width: 801px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
+    <source width="100%" alt="Language Distribution" media="(min-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
     <img width="42%" alt="Language Distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
 </picture>
 <picture>
+    <source width="55%" alt="My Stats" media="(max-width: 801px)" srcset="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
+    <source width="100%" alt="My Stats" media="(min-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
     <img width="55%" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
 </picture>
 
@@ -109,8 +112,8 @@ Thank you for your support and happy coding! ☕
 ## 🏆 GitHub Trophies
 
 <picture>
-    <source width="100%" alt="GitHub Trophies" media="(min-width: 800px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
     <source width="100%" alt="GitHub Trophies" media="(max-width: 801px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true&column=4">
+    <source width="100%" alt="GitHub Trophies" media="(min-width: 800px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
     <img width="100%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
 </picture>
 
