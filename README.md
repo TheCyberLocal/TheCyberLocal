@@ -104,9 +104,7 @@ Thank you for your support and happy coding! ☕
 </picture>
 
 <h1 align="center">Profile Views</h1>
-<picture>
-    <img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/>
-</picture>
+<img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/>
 
 ## 🏆 GitHub Trophies
 
