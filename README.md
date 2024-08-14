@@ -1,8 +1,6 @@
 # Welcome Fellow Cyber Locals! 👋
 
-<picture>
-    <img width="100%" alt="Profile Banner" src="./assets/banner.png">
-</picture>
+<img width="100%" alt="Profile Banner" src="./assets/banner.png">
 
 ## 💫 About Me
 
