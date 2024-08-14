@@ -92,8 +92,12 @@ Thank you for your support and happy coding! ☕
 
 ## 📊 GitHub Stats
 
-<a href="#-github-stats"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/></a>
-<a href="#-github-stats"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/></a>
+<picture>
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
+</picture>
+<picture>
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
+</picture>
 
 <!-- <h1 align="center">Profile Views</h1>
 <a href="#-github-stats"><img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/></a>-->
