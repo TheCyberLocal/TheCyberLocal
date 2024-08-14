@@ -1,6 +1,6 @@
 # Welcome Fellow Cyber Locals! 👋
 
-<a href="#welcome-fellow-cyber-locals">
+<a href="#welcome-fellow-cyber-locals!">
     <img width="100%" alt="Profile Banner" src="./assets/banner.png">
 </a>
 
@@ -108,17 +108,13 @@ Thank you for your support and happy coding! ☕
 
 ## 🏆 GitHub Trophies
 
-<picture>
-    <source width="100%" alt="GitHub Trophies" media="(max-width: 801px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true&column=4">
-    <source width="100%" alt="GitHub Trophies" media="(min-width: 800px)" srcset="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
-    <img width="100%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
-</picture>
+<img width="100%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
 
 ## 💭 Random Dev Quote
 
-<picture>
+<a href="-random-dev-quote">
     <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</picture>
+</a>
 
 ## 🌐 Socials
 
@@ -134,8 +130,8 @@ If you find my content helpful or interesting, consider buying me a coffee. Ever
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/TheCyberLocal)
 [![Venmo](https://img.shields.io/badge/Venmo-008CFF?logo=venmo&logoColor=white)](https://www.venmo.com/TheCyberLocal)
 
-<picture>
+<a href="#-support">
     <img width="100%" alt="GitHub Snake SVG" src="./assets/github-snake.svg">
-</picture>
+</a>
 
 ### Thank you for visiting my profile... 🎉 and remember, don't swim with sharks! 🦈🙅‍♂️
