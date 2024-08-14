@@ -92,38 +92,14 @@ Thank you for your support and happy coding! ☕
 
 ## 📊 GitHub Stats
 
-<style>
-  .stats-img {
-    display: none;
-  }
-  @media (max-width: 700px) {
-    .stats-img-small {
-      display: block;
-      width: 100%;
-    }
-  }
-  @media (min-width: 701px) {
-    .stats-img-large {
-      display: block;
-      width: 42%;
-    }
-  }
-</style>
-
-<img class="stats-img stats-img-small" alt="Language Distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
-<img class="stats-img stats-img-large" alt="Language Distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
-
-<img class="stats-img stats-img-small" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
-<img class="stats-img stats-img-large" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
-
-<!-- <picture>
+<picture>
     <source width="100%" alt="Language Distribution" media="(max-width: 700px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
     <source width="42%" alt="Language Distribution" media="(min-width: 701px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
 </picture>
 <picture>
     <source width="100%" alt="My Stats" media="(max-width: 700px)" srcset="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
     <source width="55%" alt="My Stats" media="(min-width: 701px)" srcset="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
-</picture> -->
+</picture>
 
 <h1 align="center">Profile Views</h1>
 <img width="100%" src="https://profile-counter.glitch.me/thecyberlocal/count.svg"/>
