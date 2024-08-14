@@ -108,7 +108,9 @@ Thank you for your support and happy coding! ☕
 
 ## 🏆 GitHub Trophies
 
-<img width="100%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
+<a href="#-github-trophies">
+    <img width="100%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
+</a>
 
 ## 💭 Random Dev Quote
 
