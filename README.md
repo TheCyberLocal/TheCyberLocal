@@ -95,13 +95,13 @@ Thank you for your support and happy coding! ☕
 ## 📊 GitHub Stats
 
 <picture>
-    <source width="42%" alt="Language Distribution" media="(max-width: 801px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
-    <source width="100%" alt="Language Distribution" media="(min-width: 600px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
+    <source width="100%" alt="Language Distribution" media="(max-width: 700px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
+    <source width="42%" alt="Language Distribution" media="(min-width: 701px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
     <img width="42%" alt="Language Distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
 </picture>
 <picture>
-    <source width="55%" alt="My Stats" media="(max-width: 801px)" srcset="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
-    <source width="100%" alt="My Stats" media="(min-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
+    <source width="100%" alt="My Stats" media="(max-width: 700px)" srcset="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
+    <source width="55%" alt="My Stats" media="(min-width: 701px)" srcset="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
     <img width="55%" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
 </picture>
 
