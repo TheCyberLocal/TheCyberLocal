@@ -114,7 +114,7 @@ Thank you for your support and happy coding! ☕
 
 ## 💭 Random Dev Quote
 
-<a href="-random-dev-quote">
+<a href="#-random-dev-quote">
     <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </a>
 
