@@ -90,7 +90,7 @@ Thank you for your support and happy coding! ☕
 
 <picture>
     <img width="100%" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark&area=true"/>
-</picture>t
+</picture>
 
 ## 📊 GitHub Stats
 
