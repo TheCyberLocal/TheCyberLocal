@@ -33,13 +33,13 @@ Thank you for your support and happy coding! ☕
 
 ### 📚 Languages
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Bash](https://img.shields.io/badge/bash-%23121011.svg?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Bash](https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ### 🔍 Frameworks, Libraries, and ML/DL Tools
 
