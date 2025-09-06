@@ -22,7 +22,6 @@ Thank you for your support and happy coding! ☕
 -   [Airbnb-Clone](https://github.com/TheCyberLocal/Airbnb-Clone) This is an Airbnb Clone for Wonders of the World.
 -   [ShareSage](https://github.com/rileybona/sharesage) This is a Splitwise Clone developed collaboratively to build our communication and team skills.
 -   [STRling](https://github.com/TheCyberLocal/STRling) A next-generation object-oriented interface for regular expressions.
--   [AskCodeium](https://github.com/TheCyberLocal/AskCodeium) A simple API for Codeium live general chat.
 
 ## 😎 More About Me
 
