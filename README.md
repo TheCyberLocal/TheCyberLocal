@@ -34,12 +34,6 @@ Thank you for your support and happy coding! ☕
     <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark&area=true"/>
 </a>
 
-## 🏆 GitHub Trophies
-
-<a href="#-github-trophies">
-    <img width="100%" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thecyberlocal&theme=dark_dimmed&no-bg=true&no-frame=true">
-</a>
-
 ## 💻 Tech Stack
 
 ### 📚 Languages
