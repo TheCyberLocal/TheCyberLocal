@@ -49,25 +49,6 @@ An idempotent, infrastructure-as-code platform for zero-downtime deployments on 
     <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark&area=true"/>
 </a>
 
----
-
-## 🌐 Connect & Support
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
-[![PyPI](https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/TheCyberLocal/)
-[![npm](https://img.shields.io/badge/npm-%23FFFFFF.svg?style=for-the-badge&logo=npm&logoColor=D00000)](https://www.npmjs.com/~thecyberlocal)
-
-<br/>
-
-If you find my tools helpful, consider supporting the development.
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/thecyberlocal)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/TheCyberLocal)
-
-</div>
-
 <a href="#-support">
     <img width="100%" alt="GitHub Snake SVG" src="./assets/github-snake.svg">
 </a>
