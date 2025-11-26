@@ -1,128 +1,74 @@
-# 👋 Welcome Fellow Cyber Locals!
+# Hi there, I'm Timothy 👋
 
-<a href="#-welcome-fellow-cyber-locals">
-    <img width="100%" alt="Profile Banner" src="./assets/banner.png">
-</a>
+### Systems Architect | Compiler Designer | Platform Engineer
 
-## 💫 About Me
+I view business, strategy, and software through a single lens: **Systems Thinking**.
 
-I'm a passionate programmer who loves to solve problems, and coding is no exception. More than user product development, I have a keen interest in developing tools for other developers. I find a greater sense of accomplishment when I create a tool because I know it will continue to help other projects long after my work is done.
+Whether debugging a compiler or structuring an organization, I see the same fundamental structure: a system of inputs, outputs, and internal states. My goal is to understand these systems deeply—seeing past the immediate transaction to the relationships, time horizons, and state changes that define the future—and then refine them until they are efficient, predictable, and robust.
 
-When I'm not deep in code, you might find me researching the latest text-to-speech extensions for Google Chrome or customizing my Gmail background - I love finding ways to make technology work for me.
+---
 
-Through [BuyMeACoffee](https://buymeacoffee.com/thecyberlocal), I hope to share my knowledge, discoveries, and experiences in programming and web development. Your support allows me to dedicate more time to this passion and to continue learning and growing in this field.
+## 🏆 Featured Architectures
 
-If you find my content helpful or interesting, consider buying me a coffee. Every cup is greatly appreciated and fuels my work!
+### 1. STRling: The Universal Regular Expression Compiler
 
-Thank you for your support and happy coding! ☕
+A next-generation, object-oriented interface for regular expressions that compiles to native regex engines across 17 languages.
 
-## ✨ Featured Repos
+-   **Architecture:** Follows a strict `Parse -> IR -> Emit` compiler pipeline.
+-   **Correctness:** Enforces a "Golden Master" specification where a single input produces identical behavioral outputs across every target runtime (PCRE2, Python `re`, JS `RegExp`, etc.).
+-   **Stack:** TypeScript, Python, Rust, C#, and more.
 
--   [MyTube](https://github.com/TheCyberLocal/MyTube) A full-stack web application for organizing and managing your favorite YouTube videos.
--   [Airbnb-Clone](https://github.com/TheCyberLocal/Airbnb-Clone) This is an Airbnb Clone for Wonders of the World.
--   [ShareSage](https://github.com/rileybona/sharesage) This is a Splitwise Clone developed collaboratively to build our communication and team skills.
--   [STRling](https://github.com/TheCyberLocal/STRling) A next-generation object-oriented interface for regular expressions.
+[**Explore the Compiler »**](https://github.com/TheCyberLocal/STRling)
 
-## 😎 More About Me
+### 2. The Convergence Toolkit (Proprietary Enterprise Platform)
 
--   ### 🤵🏻 [Portfolio Site](https://thecyberlocal.github.io)
--   ### 🏆 [My Showroom](https://github.com/stars/TheCyberLocal/lists/my-showroom)
+An idempotent, infrastructure-as-code platform for zero-downtime deployments on on-premise Windows/IIS servers.
 
-## 📈 GitHub Activity Graph
+-   **Architecture:** Treats the server environment as a deterministic function. A single PowerShell-driven workflow converges the OS into a production-ready state, eliminating configuration drift.
+-   **Reliability:** Implements a "Diamond Doctrine" testing strategy, prioritizing high-ROI integration tests and automated security auditing over brittle unit tests.
+-   **Stack:** PowerShell, .NET 9, GitHub Actions, IIS.
+
+> *Note: This is a proprietary internal platform. Architecture details available upon request.*
+
+---
+
+## 🛠️ Core Stack & Methodology
+
+| Category | Technologies & Concepts |
+| :--- | :--- |
+| **Primary Stack** | .NET 9, C#, TypeScript, Python |
+| **Specialization** | Compiler Design, System Architecture, Distributed Systems |
+| **Infrastructure** | PowerShell, Infrastructure as Code (IaC), GitHub Actions, IIS |
+| **Methodology** | Systems Thinking, Engineering Governance, "Diamond Doctrine" Testing |
+
+---
+
+## 📈 Engineering Activity
 
 <a href="#-github-activity-graph">
     <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark&area=true"/>
 </a>
 
-## 💻 Tech Stack
+---
 
-### 📚 Languages
+## 🌐 Connect & Support
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Bash](https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+<div align="center">
 
-### 🔍 Frameworks, Libraries, and ML/DL Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
+[![PyPI](https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/TheCyberLocal/)
+[![npm](https://img.shields.io/badge/npm-%23FFFFFF.svg?style=for-the-badge&logo=npm&logoColor=D00000)](https://www.npmjs.com/~thecyberlocal)
 
-#### JavaScript
+<br/>
 
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)](https://redux.js.org/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
-[![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?logo=nodemon&logoColor=%BBDEAD)](https://nodemon.io/)
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)](https://mochajs.org/)
-[![Chai](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=white)](https://www.chaijs.com/)
-[![npm](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/)
-
-#### Python
-
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Jinja](https://img.shields.io/badge/jinja-white.svg?logo=jinja&logoColor=black)](https://jinja.palletsprojects.com/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)](https://opencv.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)](https://keras.io/)
-[![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)](https://www.scipy.org/)
-[![pip3](https://img.shields.io/badge/pip3-%2314354C.svg?logo=pypi&logoColor=white)](https://pypi.org/project/pip/)
-
-### 🪛 Tools and Platforms
-
-[![Render](https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white)](https://render.com/)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=Twilio&logoColor=white)](https://www.twilio.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
-[![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)](https://eslint.org/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
-
-### 🗂️ Databases and ORMs
-
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)](https://sequelize.org/)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%2361DAFB?logo=sqlalchemy&logoColor=%23FF0000&color=%23202020)](https://www.sqlalchemy.org/)
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-## 📊 GitHub Stats
-
-<a href="#-github-stats">
-    <img width="42%" alt="Language Distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLocal&theme=vue-dark&layout=compact&custom_title=Language%20Distribution"/>
-</a>
-<a href="#-github-stats">
-    <img width="56%" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=TheCyberLocal&theme=vue-dark&count_private=true&show_icons=true&custom_title=My%20Stats"/>
-</a>
-
-## 💭 Random Dev Quote
-
-<a href="#-random-dev-quote">
-    <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</a>
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzm01)
-[![PyPI](https://img.shields.io/badge/PyPI-3776AB?logo=pypi&logoColor=white)](https://pypi.org/user/TheCyberLocal/)
-[![npm](https://img.shields.io/badge/npm-%23FFFFFF.svg?logo=npm&logoColor=D00000)](https://www.npmjs.com/~thecyberlocal)
-
-## 💖 Support
-
-If you find my content helpful or interesting, consider buying me a coffee. Every cup is greatly appreciated and fuels my work!
+If you find my tools helpful, consider supporting the development.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/thecyberlocal)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/TheCyberLocal)
 [![Venmo](https://img.shields.io/badge/Venmo-008CFF?logo=venmo&logoColor=white)](https://www.venmo.com/TheCyberLocal)
 
+</div>
+
 <a href="#-support">
     <img width="100%" alt="GitHub Snake SVG" src="./assets/github-snake.svg">
 </a>
-
-### Thank you for visiting my profile... 🎉 and remember, don't swim with sharks! 🦈🙅‍♂️
