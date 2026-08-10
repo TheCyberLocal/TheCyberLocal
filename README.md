@@ -1,45 +1,45 @@
 # Hi there, I'm Timothy 👋
 
-### Systems Architect | Compiler Designer | Platform Engineer
+### Software Architect & Engineer | Developer Tooling | Creator of STRling
 
-I view business, strategy, and software through a single lens: **Systems Thinking**.
+I build production software and developer tooling, with a particular interest in software architecture, release engineering, software assurance, and compiler design.
 
-Whether debugging a compiler or structuring an organization, I see the same fundamental structure: a system of inputs, outputs, and internal states. My goal is to understand these systems deeply—seeing past the immediate transaction to the relationships, time horizons, and state changes that define the future—and then refine them until they are efficient, predictable, and robust.
-
----
-
-## 🏆 Featured Architectures
-
-### 1. STRling: The Universal Regular Expression Compiler
-
-A next-generation, object-oriented interface for regular expressions that compiles to native regex engines across 17 languages.
-
--   **Architecture:** Follows a strict `Parse -> IR -> Emit` compiler pipeline.
--   **Correctness:** Enforces a "Golden Master" specification where a single input produces identical behavioral outputs across every target runtime (PCRE2, Python `re`, JS `RegExp`, etc.).
--   **Stack:** TypeScript, Python, Rust, C#, and more.
-
-[**Explore the Compiler »**](https://github.com/TheCyberLocal/STRling)
-
-### 2. The Convergence Toolkit (Proprietary Enterprise Platform)
-
-An idempotent, infrastructure-as-code platform for zero-downtime deployments on on-premise Windows/IIS servers.
-
--   **Architecture:** Treats the server environment as a deterministic function. A single PowerShell-driven workflow converges the OS into a production-ready state, eliminating configuration drift.
--   **Reliability:** Implements a "Diamond Doctrine" testing strategy, prioritizing high-ROI integration tests and automated security auditing over brittle unit tests.
--   **Stack:** PowerShell, .NET 9, GitHub Actions, IIS.
-
-> *Note: This is a proprietary internal platform. Architecture details available upon request.*
+When a technical problem matters, I like to start with the outcome that actually needs to be true, work backward through the assumptions behind it, and turn the resulting rules into software, tests, tooling, and repeatable engineering processes.
 
 ---
 
-## 🛠️ Core Stack & Methodology
+## 🏆 Featured Work
 
-| Category | Technologies & Concepts |
-| :--- | :--- |
-| **Primary Stack** | .NET 9, C#, TypeScript, Python |
-| **Specialization** | Compiler Design, System Architecture, Distributed Systems |
-| **Infrastructure** | PowerShell, Infrastructure as Code (IaC), GitHub Actions, IIS |
-| **Methodology** | Systems Thinking, Engineering Governance, "Diamond Doctrine" Testing |
+### 1. STRling: A Structured Regex DSL and Compiler
+
+STRling is an open-source DSL and compiler for building regular expressions as structured, target-aware software rather than opaque pattern strings.
+
+- **Architecture:** DSL → AST → IR → target-specific emission
+- **Focus:** Maintainability, explicit semantics, cross-language consistency, and conformance
+- **Work:** Language design, compiler architecture, testing, documentation, packages, and distribution
+
+[**Explore STRling »**](https://github.com/strling-lang/strling)
+
+### 2. Production Software & Release Engineering
+
+My professional work spans production application architecture, modernization, data and reporting, browser automation, software assurance, release engineering, and operational reliability.
+
+A recurring focus is making important engineering decisions explicit and repeatable through contracts, automated verification, release gates, deployment tooling, and defined recovery processes.
+
+> Private implementation, customer, and operational details are intentionally omitted.
+
+---
+
+## 🛠️ Engineering Focus
+
+| Category                      | Technologies & Concepts                                              |
+| :---------------------------- | :------------------------------------------------------------------- |
+| **Application Engineering**   | C#, ASP.NET Core, EF Core, JavaScript, TypeScript                    |
+| **Data & Modernization**      | SQL Server, ETL, normalization, reporting                            |
+| **Testing & Assurance**       | Playwright, contract testing, security verification, release gates   |
+| **Infrastructure & Delivery** | PowerShell, GitHub Actions, Windows application delivery             |
+| **Developer Tooling**         | DSL design, AST, IR, code generation, compiler architecture          |
+| **AI-Assisted Engineering**   | Context design, bounded workflows, acceptance criteria, verification |
 
 ---
 
