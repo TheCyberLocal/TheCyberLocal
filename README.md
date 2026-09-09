@@ -43,12 +43,6 @@ A recurring focus is making important engineering decisions explicit and repeata
 
 ---
 
-## 📈 Engineering Activity
-
-<a href="#-github-activity-graph">
-    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberlocal&theme=react-dark&area=true"/>
-</a>
-
 <a href="#-support">
     <img width="100%" alt="GitHub Snake SVG" src="./assets/github-snake.svg">
 </a>
